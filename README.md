@@ -1,17 +1,157 @@
-# 💫 About Me:
-hii i am Dipak Associate Software Engineer at PibyThree, focused on Data Engineering and Data Platforms.<br>Exploring modern data stack technologies including Snowflake, dbt, and metadata-driven workflows.<br>Interested in data quality, observability, lineage, and AI-enabled data products.<br>Experimenting with BERT/GPT for retrieval and reasoning on structured and unstructured data.<br>Building toward the convergence of Data + AI + Platform engineering.
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Dipak Mandlik — AI Engineer, Snowflake Engineer, dbt Contributor" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dipak_mandlik_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-mandlik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dipak.Mandlik@Pibythree.com) 
+<br><br>
 
-# 💻 Tech Stack:
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DipakMandlik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DipakMandlik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DipakMandlik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dipak.Mandlik@Pibythree.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-mandlik)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DipakMandlik)
+[![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dipak_mandlik_)
 
+</div>
 
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-card-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-card-light.svg">
+  <img src="assets/profile-card-light.svg" alt="Dipak Mandlik profile card" width="100%">
+</picture>
+
+<br>
+
+## About Me
+
+I'm an **Associate Software Engineer at PibyThree**, building enterprise-grade **data and AI platforms** on top of the modern data stack. My work sits at the intersection of **data engineering, cloud platform design, and applied AI** — turning raw, messy, multi-source data into governed, trustworthy systems that enterprises can build products on.
+
+- 🧠 **Enterprise AI** — designing agentic and LLM-powered systems for document understanding, fraud detection, and retrieval over structured + unstructured data
+- ❄️ **Snowflake** — ingestion frameworks, governance, access control, lineage, and performance engineering at scale
+- 🔧 **dbt & Analytics Engineering** — metadata-driven transformation, testing, and data quality as code
+- 🌐 **Open Source** — contributing back to the dbt and data engineering community
+- ⚙️ **Automation & Platform Engineering** — Go services, Airflow orchestration, and infrastructure-as-code with Terraform
+- ☁️ **Cloud** — AWS and Databricks across production data platforms
+
+I care about building systems that are **observable, governed, and quietly reliable** — the kind of infrastructure enterprises don't have to think about because it simply works.
+
+<br>
+
+## Tech Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/techstack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/techstack-light.svg">
+  <img src="assets/techstack-light.svg" alt="Tech stack: Snowflake, dbt, Go, Python, SQL, Docker, GitHub, AWS, Databricks, OpenAI, Terraform, Airflow, Kafka, Git, Linux" width="100%">
+</picture>
+
+<br>
+
+## GitHub Stats
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img src="assets/stats-light.svg" alt="GitHub stats" width="100%">
+</picture>
+
+</td>
+<td valign="top" width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+  <img src="assets/languages-light.svg" alt="Most used languages" width="100%">
+</picture>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Featured Projects
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg">
+  <img src="assets/projects-light.svg" alt="Featured projects: Universal Ingestion Framework, Fraud Detection Platform, Document AI, Shell Company Detection, Snowflake Governance Platform, dbt Open Source Contributions" width="100%">
+</picture>
+
+<br>
+
+## Career Timeline
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg">
+  <img src="assets/timeline-light.svg" alt="Career timeline: Learning, Development, AI, Snowflake, Open Source, Go, dbt" width="100%">
+</picture>
+
+<br>
+
+## Open Source
+
+I contribute upstream to **dbt-core** and community packages — improving macros, tests, and documentation for the analytics engineering ecosystem — and maintain internal-turned-public tooling around Snowflake governance and data ingestion.
+
+<div align="center">
+
+[![Repositories](https://img.shields.io/badge/Repositories-View_on_GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DipakMandlik?tab=repositories)
+[![dbt](https://img.shields.io/badge/dbt-Community_Contributor-2563EB?style=for-the-badge&logo=dbt&logoColor=white)](https://github.com/dbt-labs)
+
+</div>
+
+<br>
+
+## Achievements
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/trophies-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/trophies-light.svg">
+  <img src="assets/trophies-light.svg" alt="Achievements" width="100%">
+</picture>
+
+<br>
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DipakMandlik/DipakMandlik/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DipakMandlik/DipakMandlik/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/DipakMandlik/DipakMandlik/output/github-snake.svg" alt="Animated contribution snake" width="100%">
+</picture>
+
+</div>
+
+<br>
+
+<details>
+<summary><strong>How this profile stays alive</strong></summary>
+<br>
+
+Every animated asset in this README is a self-contained SVG — no third-party image services, no external rendering APIs. Two GitHub Actions keep it current:
+
+- **`update-stats.yml`** runs `.github/scripts/generate_profile_assets.py` on push and on a daily schedule, pulling real numbers from the GitHub REST + GraphQL APIs and re-rendering `stats-*.svg`, `languages-*.svg`, and `trophies-*.svg` in place. Repo and star counts work out of the box; for contribution / PR / issue totals, add a fine-grained personal access token with **read-only profile access** as a repository secret named `GH_STATS_TOKEN`.
+- **`snake.yml`** renders the contribution calendar into the animated snake every 12 hours and publishes it to the `output` branch.
+
+Until the first scheduled run completes after upload, the stats and achievement cards render an honest **"syncing"** state rather than placeholder numbers.
+
+</details>
+
+<br>
+
+<div align="center">
+<img src="assets/logo.svg" width="72" alt="Dipak Mandlik">
+
+<sub>Designed &amp; built by Dipak Mandlik · PibyThree · Data + AI Platform Engineering</sub>
+
+</div>

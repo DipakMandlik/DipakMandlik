@@ -1,0 +1,45 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stats, languages & achievements SVGs
+        env:
+          # A fine-grained PAT with "Read access to profile" lets the
+          # GraphQL contributionsCollection query resolve (used for the
+          # contributions/PR/issue counts). Falls back to REST-only stats
+          # (repos, stars, followers) when only the default token is set.
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_profile_assets.py --user DipakMandlik --output-dir assets
+
+      - name: Commit refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-dark.svg assets/stats-light.svg \
+                  assets/languages-dark.svg assets/languages-light.svg \
+                  assets/trophies-dark.svg assets/trophies-light.svg
+          git diff --cached --quiet || git commit -m "chore: refresh live GitHub stats [skip ci]"
+          git push
